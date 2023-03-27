@@ -2,3 +2,5 @@ Tecnologias que manejamos:
 
 html
 css
+bootsrap
+
