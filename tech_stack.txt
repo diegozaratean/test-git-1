@@ -3,4 +3,7 @@ Tecnologias que manejamos:
 html
 css
 bootsrap
+linea de comandos
 
+python
+react
